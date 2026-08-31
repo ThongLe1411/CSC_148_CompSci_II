@@ -1,0 +1,6 @@
+5
+Wireless Mouse,24.99,15
+USB Keyboard,19.99,3
+Laptop Stand,39.95,8
+Webcam,49.99,2
+USB-C Cable,12.50,25
